@@ -1,0 +1,16 @@
+{
+  "name": "weather_api",
+  "version": "1.0.0",
+  "description": "weather forecast from api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VK Data",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "sass": "^1.57.1"
+  }
+}
